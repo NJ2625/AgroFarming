@@ -1,0 +1,5 @@
+{
+  "name": "AgriTech Smart Farming",
+  "description": "A smart farming assistant with weather, crop recommendations, and AI chatbot.",
+  "requestFramePermissions": ["geolocation"]
+}
